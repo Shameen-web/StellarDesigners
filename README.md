@@ -5,7 +5,7 @@
 This project demonstrates a **scalable static website solution** hosted on AWS S3 with **secure access control** implemented using IAM (Identity and Access Management).
 
 ### Live Website
-🌐 **Website URL:** `http://stellar-design-studio.s3-website-us-east-1.amazonaws.com`
+🌐 **Website URL:** 🌐 [Live Website: Stellar Design Studio](http://stellar-design-studio.s3-website-us-east-1.amazonaws.com)
 
 ## Architecture & Technologies Used
 
